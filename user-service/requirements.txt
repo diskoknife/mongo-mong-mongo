@@ -1,8 +1,0 @@
-# add requirements used in .app path
-Flask==2.2.2
-Flask-JWT-Extended==4.5.1
-PyJWT==2.6.0
-Pydantic==1.10.2
-pymongo==4.3.0
-redis==4.3.4
-Werkzeug==2.2.2
