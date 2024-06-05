@@ -1,0 +1,48 @@
+# General
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/*
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# FastAPI
+.env
+
+# Docker
+.dockerignore
+
+# MongoDB
+mongod.lock
+
+# Logs
+*.log
+
+# Kubernetes
+local_settings.py
+
+# Operating System Files
+desktop.ini
+Thumbs.db
+
+# OS Generated Files
+.Spotlight-V100
+.Trashes
+
+# IDE and Editor Files
+.idea/
+.project
+.classpath
+*.swo
+*.swp
+
+# Miscellaneous
+*.orig
+.history
