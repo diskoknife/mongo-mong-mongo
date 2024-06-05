@@ -6,8 +6,11 @@ from .models import (
     update_user,
     delete_user
 )
+# import defined for nosql model usercollection
+from .models import user_collection
 from .schemas import UserCreateSchema, UserUpdateSchema
 from pydantic import ValidationError
+
 
 
 
