@@ -10,7 +10,7 @@ from .models import (
 from .models import user_collection
 from .schemas import UserCreateSchema, UserUpdateSchema
 from pydantic import ValidationError
-
+import redis
 
 
 
